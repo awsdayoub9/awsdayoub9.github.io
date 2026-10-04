@@ -75,4 +75,4 @@ sources: []
 
 - [تحميل السيرة الذاتية (PDF)](/Aws_Dayoub_CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aws-dayoub-7bba83257)
-- [GitHub](https://github.com/AwsDayoub)
+- [GitHub](https://github.com/awsdayoub9)

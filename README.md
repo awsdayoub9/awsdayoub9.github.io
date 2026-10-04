@@ -172,7 +172,7 @@ and every later submission is forwarded. No key, no dashboard, no tracking on th
 
 ## Deployment
 
-1. Create the repository `AwsDayoub/awsdayoub9.github.io` on GitHub (public).
+1. Create the repository `awsdayoub9/awsdayoub9.github.io` on GitHub (public).
 2. Repository **Settings → Pages → Build and deployment → Source = GitHub Actions**.
 3. Push `main`. `.github/workflows/deploy.yml` runs `withastro/action@v6` (which runs `npm run build`, so the copy
    and SEO checks gate the deploy) and `actions/deploy-pages@v5`. The site is served at

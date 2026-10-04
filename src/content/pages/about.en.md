@@ -73,4 +73,4 @@ Available for new implementation and customisation projects. I work remotely, ke
 
 - [Download my CV (PDF)](/Aws_Dayoub_CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aws-dayoub-7bba83257)
-- [GitHub](https://github.com/AwsDayoub)
+- [GitHub](https://github.com/awsdayoub9)

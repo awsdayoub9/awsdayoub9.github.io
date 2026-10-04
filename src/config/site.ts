@@ -14,8 +14,8 @@ export const site = {
   phoneHref: 'tel:+963983354124',
   linkedin: 'https://www.linkedin.com/in/aws-dayoub-7bba83257',
   linkedinLabel: 'linkedin.com/in/aws-dayoub-7bba83257',
-  github: 'https://github.com/AwsDayoub',
-  githubLabel: 'github.com/AwsDayoub',
+  github: 'https://github.com/awsdayoub9',
+  githubLabel: 'github.com/awsdayoub9',
   /** Public path of the CV and its location on disk (for the byte size). */
   cvHref: '/Aws_Dayoub_CV.pdf',
   cvFile: 'public/Aws_Dayoub_CV.pdf',
